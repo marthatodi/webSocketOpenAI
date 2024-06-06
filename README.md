@@ -1,2 +1,3 @@
 # webSocketOpenAI
-An online game that uses web socket to communicate with chat GPT in real time
+An online game that uses web socket to communicate with chat GPT in real time !
+Using Angular and Node
