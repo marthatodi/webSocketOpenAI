@@ -1,0 +1,26 @@
+{
+  "name": "websocketopenai",
+  "version": "1.0.0",
+  "description": "An online game that uses web socket to communicate with chat GPT in real time ! Using Angular and Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marthatodi/webSocketOpenAI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marthatodi/webSocketOpenAI/issues"
+  },
+  "homepage": "https://github.com/marthatodi/webSocketOpenAI#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "openai": "^4.48.3",
+    "ws": "^8.17.0"
+  }
+}
